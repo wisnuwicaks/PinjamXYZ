@@ -9,3 +9,5 @@ ERD : https://www.figma.com/file/oj2TroIjIbvthCfc3Rxr54/ERD-PinjamXYZ?type=white
 
 Class diagram : https://www.figma.com/file/EbTnAWN6nCarc8n57rRe49/Class-Diagram-PinjamXYZ?type=whiteboard&node-id=0%3A1&t=70VlbvdPzHSUsvNh-1
 
+Flowchart : https://www.figma.com/file/l6nhwdraoZFxPtOHCDCDLY/Flowchart-Pinjam-XYZ?type=whiteboard&node-id=0%3A1&t=YP5z3phLUe5X48ze-1
+
